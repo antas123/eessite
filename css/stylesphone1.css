@@ -1,0 +1,16 @@
+.title{
+  height: 2200px;
+}
+.title h1{
+  position: relative;
+  top: 800px;
+}
+.title h3{
+  top: 700px;
+}
+.title h2{
+  top: 800px;
+}
+.span{
+  color: white;
+}
